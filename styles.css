@@ -1,0 +1,26 @@
+
+  body{
+    background-color:ivory;
+  }
+  h1{
+    color:seagreen;
+  }
+
+  h3{
+    color:seagreen;
+  }
+
+  hr{
+    border-color: gold;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: dotted;
+    width: 5%;
+    border-width: 3px;
+
+  }
+
+  .wkexp td{
+    padding: .5rem;
+  }
